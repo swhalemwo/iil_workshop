@@ -1,0 +1,3 @@
+x = "public or private?"
+y = "that is the question"
+print(x,y)
